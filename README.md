@@ -1,6 +1,6 @@
 # belajar-git-pertama-saya
 saya akan belajar git 
-setelah itu saya akan belajar node js
-dan setelah itu saya akan belajar react.js
 saya akan belajar tailwind css 
-
+saya akan belajar fullstack web developer
+saya akan belajar mobile developer
+saya akan belajar flutter dan react native
