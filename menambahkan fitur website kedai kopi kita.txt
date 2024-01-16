@@ -1,0 +1,4 @@
+1. saya akan menambahkan fitur map
+2. saya akan menambahkan fitur app untuk mobile version
+3. saya akan menambahkan fitur rekomendasi tiap minggu
+4. saya akan menambahkan fitur kurva laba penjualan kopi selama sekali seminggu
